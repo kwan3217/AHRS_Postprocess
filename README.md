@@ -1,3 +1,9 @@
+Notes by kwan3217
+=================
+It looks like this code should be able to analyze my old rocketometer and rollercoasterometer data. It appears to accept raw sensor readings and produce quaternions and linear acceleration.
+
+This fork is intended to morph into a host-based post-processor of recorded data, not real-time processing. This will relax any timing and computer power constraints.
+
 MPU-9250
 ========
 
